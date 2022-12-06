@@ -20,3 +20,11 @@ __05.12.2022  monday__
  * __*conflicts*__ - информация по кнфликтам
 
 
+# Виды слияний:
+
+# Fast forward
+
+# ORT
+
+# Conflicts
+
